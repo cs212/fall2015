@@ -1,2 +1,2 @@
-# fall2015
-Course website for CS 212 Software Development.
+Software Development  
+CS 212-01 • Fall 2015
