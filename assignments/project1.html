@@ -1,0 +1,79 @@
+---
+layout: default
+title: Project 1 Inverted Index
+---
+
+<h1 class="page-header">{{ page.title }}</h1>
+
+<p class="lead">For this project, you will write a Java program that recursively processes all text files in a directory and builds an inverted index to store the mapping from words to the documents (and position within those documents) where those words were found.</p>
+
+<p>For example, suppose we have the following mapping stored in our inverted index:</p>
+
+<pre>
+capybara
+"mammals.txt", 11
+
+platypus
+"mammals.txt", 3, 8
+"venomous.txt", 2
+</pre>
+
+<p>This indicates that the word <code>capybara</code> is found in the file <code>mammals.txt</code> in position 11. The word <code>platypus</code> is found in two files, <code>mammals.txt</code> and <code>venomous.txt</code>. In the file <code>mammals.txt</code>, the word <code>platypus</code> appears twice in positions 3 and 8. In file <code>venomous.txt</code>, the word <code>platypus</code> is in position 2 in the file.</p>
+
+<h2>Functionality</h2>
+
+<p>Pending.</p>
+
+<!--<p>For this project, your code must traverse a directory and process all text files found in that directory (including all subdirectories). For each text file, you must parse each line into words. For each word, you must store a mapping of the word to the file and position that word was found in a custom inverted index data structure.</p>
+
+<p>Specifically, the core functionality of your project must satisfy the following requirements:</p>
+
+<ul>
+
+<li><p>Create an custom inverted index data structure that stores a mapping from a word to the file(s) the word was found, and the position(s) in that file the word is located. <em>Hint: This will require nesting multiple built-in data structures.</em></p></li>
+
+<li><p>Store the normalized relative path for file locations as a <code>String</code> object. Do not convert the file paths to absolute paths!</p></li>
+
+<li><p>Positions stored in your inverted index should start at 1. For example, if a file has words "ant bat cat", then "ant" is in position 1, "bat" is in position 2, and "cat" is in position 3.</p></li>
+
+<li><p>Traverse a directory and its subdirectories and parse all of the text files found. Any file ending in the <code>.txt</code> extension (case-insensitive) should be considered a text file.</p></li>
+
+<li><p>Use the UTF-8 character encoding when parsing the provided test files.</p></li>
+
+<li><p>Process each line from a text file into words. Separate words by any whitespace character, including spaces, tabs, and newline characters.</p></li>
+
+<li><p>Words must be case-insensitive. For example, the words APPLE, Apple, apple, and aPpLe should all be seen as the same word.</p></li>
+
+<li><p>Remove all special characters, including the <code>_</code> underscore character. This includes all characters <em>except</em> letters, digits, and whitespace characters. For example, the word <code>age_long</code> should be stored as <code>agelong</code> since the <code>_</code> underscore will be removed.</p></li>
+
+<li><p>Process command-line parameters to determine the directory to parse and output to produce. See the <a href="#Execution">Execution</a> section below for specifics.</p></li>
+
+<li><p>Output the inverted index to a text file if the proper command-line parameters are provided. See the <a href="#Output">Output</a> section below for specifics.</p></li>
+
+</ul>
+
+<p>You must satisfy the core functionality prior to submitting your project for code review.</p>-->
+
+<h2>Design</h2>
+
+<p>Pending.</p>
+
+<h2>Execution</h2>
+
+<a name="Execution"></a>
+
+<p>Pending.</p>
+
+<h2>Output</h2>
+
+<a name="Output"></a>
+
+<p>Pending.</p>
+
+<h2>Hints</h2>
+
+<p>Pending.</p>
+
+<h2>Submission</h2>
+
+<p>Pending.</p>

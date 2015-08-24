@@ -1,0 +1,64 @@
+---
+layout: landing
+title: Home
+---
+
+<h2>Course Resources</h2>
+
+<p>The <a href="{{ {{ site.github.url }}/schedule.html">course schedule</a> will be maintained on this website. Visit the <a href="{{ site.data.course.github }}">Github</a> repository for code examples, homework templates and tests, and project files. Visit <a href="{{ site.data.course.canvas }}">Canvas</a> for quizzes and grades. Finally, visit <a href="{{ site.data.course.piazza }}">Piazza</a> for announcements and questions.</p>
+
+<!-- button group for course resources -->
+<div class="btn-group btn-group-lg" role="group">
+  <button type="button" class="btn btn-default">
+    <a href="{{ site.data.course.github }}">
+      <i class="fa fa-github-alt"></i>
+    </a>
+    <a href="{{ site.data.course.github }}">Github</a>
+  </button>
+
+  <button type="button" class="btn btn-default">
+    <a href="{{ site.data.course.canvas }}">
+      <i class="fa fa-cloud"></i>
+    </a>
+    <a href="{{ site.data.course.canvas }}">Canvas</a>
+  </button>
+
+  <button type="button" class="btn btn-default">
+    <a href="{{ site.data.course.piazza }}">
+      <i class="fa fa-comments"></i>
+    </a>
+    <a href="{{ site.data.course.piazza }}">Piazza</a>
+  </button>
+</div>
+
+<h2>Weekly Schedule</h2>
+
+<!-- condensed weekly schedule (see schedule.yml) -->
+<div class="panel panel-default">
+  <table class="table table-hover">
+
+  <thead>
+    <tr>
+      <th>Week</th>
+      <th>Monday</th>
+      <th>Wednesday</th>
+      <th>Friday</th>
+    </tr>
+  </thead>
+
+  <tbody>
+  {% for row in site.data.schedule %}
+  <tr>
+    <td class="nowrap text-muted text-center">{{ row.week }}</td>
+    {% for day in row.days %}
+    <td class="fill33">
+      {% if day.notes %}{{ day.notes | map: 'name' | join: ', ' }}{% else %}&nbsp;{% endif %}
+    </td>
+  {% endfor #day %}</tr>
+  {% endfor #row %}
+
+  </tbody>
+  </table>
+</div>
+
+<p>See the <a href="{{ site.github.url }}/schedule.html">Schedule</a> page for deadlines and more information.</p>

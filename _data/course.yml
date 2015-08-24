@@ -1,0 +1,10 @@
+id: CS 212
+section: '01'
+title: Software Development
+term: Fall
+year: 2015
+github: https://github.com/cs212/
+canvas: https://usfca.instructure.com/courses/1553675
+piazza: https://piazza.com/usfca/fall2015/cs21201/home
+credits: 4
+description: 'This course gives students experience designing, implementing, testing, and debugging large programs. Students will also get advanced Java programming experience; covering topics such as inheritance, multi-threading, networking, database programming, and web development.'

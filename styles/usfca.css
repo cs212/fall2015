@@ -1,0 +1,147 @@
+@import url("http://fonts.googleapis.com/css?family=Source+Code+Pro:300,400,700");
+@import url("http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,700,300italic,700italic");
+
+/* theme overrides */
+body {
+  font-family: "Source Sans Pro", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: 300;
+  font-size: 13pt;
+  padding-top: 70px;
+}
+
+.jumbotron {
+  margin-top: -20px;
+}
+
+code, pre {
+  font-family: "Source Code Pro", Menlo, Monaco, Consolas, "Courier New", monospace;
+  font-weight: 300;
+}
+
+code {
+  color: dimgray;
+  background-color: whitesmoke;
+}
+
+strong, b, h1, h2, h3, h4, h5, h6 {
+  font-weight: 700;
+}
+
+.navbar-inverse {
+  background-color: #00543c;
+}
+
+.navbar-inverse .navbar-nav li a {
+  color: white;
+}
+
+.navbar-inverse .navbar-nav li a:hover,
+.navbar-inverse .navbar-brand,
+.navbar-inverse .navbar-brand:hover {
+  color: #fdbb30;
+}
+
+footer hr {
+  margin-bottom: 0.25ex;
+}
+
+footer p {
+  text-align: center;
+  font-size: small;
+}
+
+@media print {
+  a[href]:after {
+    content: none;
+  }
+}
+
+tbody tr th {
+  text-align: right;
+  white-space: nowrap;
+}
+
+/* custom classes */
+
+.small th {
+  font-weight: 700;
+}
+
+th.nowrap, td.nowrap {
+  white-space: nowrap;
+}
+
+th.fill, td.fill {
+  width: 100%;
+}
+
+th.fill50, td.fill50 {
+  width: 50%;
+}
+
+th.fill33, td.fill33 {
+  width: 33%;
+}
+
+ul.noindent, ol.noindent {
+  margin: 0em;
+  padding-left: 20px;
+}
+
+table.noborder, table.noborder tr td {
+  border: 0px;
+  border-collapse: collapse;
+}
+
+a.anchor {
+    color: inherit;
+}
+
+.anchor i.fa {
+    width: 1.5em;
+    text-align: center;
+    margin-left: -1.5em;
+    opacity: 0.75;
+    visibility: hidden;
+}
+
+.anchor:hover i.fa {
+    visibility: visible;
+}
+
+.anchor:hover {
+    text-decoration: inherit;
+}
+
+.iffy {
+    color: lightgray;
+    opacity: 0.75;
+}
+
+.iffy a {
+    color: inherit;
+}
+
+/* usf official colors */
+
+.usf-gold-green {
+  color: #fdbb30;
+  background-color: #00543c;
+}
+
+.usf-gold-green:hover {
+  color: white;
+}
+
+.usf-white-green {
+  color: white;
+  background-color: #00543c;
+}
+
+.usf-white-green:hover {
+  color: #fdbb30;
+}
+
+.usf-green-fg {
+  color: #00543c;
+}

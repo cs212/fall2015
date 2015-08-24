@@ -1,0 +1,348 @@
+- week : 1
+  days :
+    - class : false # Mon
+
+    - class : 2015-08-26 # Wed
+      notes :
+        - name : 'Course Syllabus'
+          link : '{{ site.github.url }}/syllabus.html'
+          icon : 'fa-link'
+        - name : 'Project Euler'
+          icon : 'fa-file-code-o'
+      other :
+        - name : 'Class Begins'
+          icon : 'fa-calendar'
+          type : 'text-muted'
+
+    - class : 2015-08-28 # Fri
+      notes :
+        - name : 'Configuring Eclipse'
+          icon : 'fa-file-powerpoint-o'
+        - name : 'Argument Parser'
+          icon : 'fa-github-square'
+      other :
+        - name : 'Java Basics'
+          icon : 'fa-pencil-square-o'
+        - name : 'Background Survey'
+          link : 'https://usfca.instructure.com/courses/1553675/quizzes/2292151'
+          icon : 'fa-pencil-square-o'
+        - name : 'Github Account'
+          link : 'https://usfca.instructure.com/courses/1553675/quizzes/2292144'
+          icon : 'fa-pencil-square-o'
+        - name : 'Piazza Confirmation'
+          link : 'https://piazza.com/class/idp68bejrhd68n?cid=7'
+          icon : 'fa-pencil-square-o'
+
+- week : 2
+  days :
+    - class : 2015-08-31 # Mon
+      notes :
+        - name : 'Data Structures'
+      other :
+        - name : 'Add Deadline'
+          icon : 'fa-calendar'
+          type : 'text-muted'
+
+    - class : 2015-09-02 # Wed
+      notes :
+        - name : 'Iteration'
+      other : false
+
+    - class : 2015-09-04 # Fri
+      notes : false
+      other : false
+
+- week : 3
+  days :
+    - class : 2015-09-07 # Mon
+      notes :
+        - name : 'No Class (Labor Day)'
+          icon : 'fa-calendar-times-o'
+          type : 'text-muted'
+      other : false
+
+
+
+    - class : 2015-09-09 # Wed
+      notes :
+        - name : 'File Processing'
+      other : false
+
+    - class : 2015-09-11 # Fri
+      notes : false
+      other :
+        - name : 'Census Date'
+          icon : 'fa-calendar'
+          type : 'text-muted'
+
+- week : 4
+  days :
+    - class : 2015-09-14 # Mon
+      notes :
+        - name : 'Objects'
+      other : false
+
+    - class : 2015-09-16 # Wed
+      notes :
+        - name : 'Mutability'
+      other : false
+
+    - class : 2015-09-18 # Fri
+      notes : false
+      other : false
+
+- week : 5
+  days :
+    - class : 2015-09-21 # Mon
+      notes :
+        - name : 'Inheritance Basics'
+      other :
+        - name : 'Project 1 Inverted Index'
+          icon : 'fa-calendar-check-o'
+          type : 'text-success'
+
+    - class : 2015-09-23 # Wed
+      notes :
+        - name : 'Advanced Inheritance'
+      other : false
+
+    - class : 2015-09-25 # Fri
+      notes : false
+      other : false
+
+- week : 6
+  days :
+    - class : 2015-09-28 # Mon
+      notes :
+        - name : 'Debugging'
+      other : false
+
+    - class : 2015-09-30 # Wed
+      notes :
+        - name : 'Threads'
+      other : false
+
+    - class : 2015-10-02 # Fri
+      notes : false
+      other : false
+
+- week : 7
+  days :
+    - class : 2015-10-05 # Mon
+      notes :
+        - name : 'Exam 1 Review'
+          icon : 'fa-file-text-o'
+      other : false
+
+    - class : 2015-10-07 # Wed
+      notes : false
+      other :
+        - name : 'Exam 1'
+          type : 'text-danger'
+          icon : 'fa-flag'
+
+    - class : 2015-10-09 # Fri
+      notes : false
+      other :
+        - name : 'Exam 1 Retake'
+          icon : 'fa-book'
+
+- week : 8
+  days :
+    - class : 2015-10-12 # Mon
+      notes :
+        - name : 'Synchronization'
+      other :
+        - name : 'Project 2 Partial Search'
+          icon : 'fa-calendar-check-o'
+          type : 'text-success'
+
+    - class : 2015-10-14 # Wed
+      notes :
+        - name : 'Work Queues'
+      other : false
+
+    - class : 2015-10-16 # Fri
+      notes : false
+      other : false
+
+- week : 9
+  days :
+    - class : 2015-10-19 # Mon
+      notes : false
+      other :
+        - name : 'No Class (Fall Break)'
+          icon : 'fa-calendar-times-o'
+          type : 'text-muted'
+
+
+    - class : 2015-10-21 # Wed
+      notes :
+        - name : 'Conditional Synchronization'
+      other : false
+
+    - class : 2015-10-23 # Fri
+      notes : false
+      other : false
+
+- week : 10
+  days :
+    - class : 2015-10-26 # Mon
+      notes :
+        - name : 'Regular Expressions'
+      other :
+        - name : 'Conference Travel'
+          icon : 'fa-plane'
+          type : 'text-muted'
+
+    - class : 2015-10-28 # Wed
+      notes :
+        - name : 'Unit Testing'
+      other :
+        - name : 'Conference Travel'
+          icon : 'fa-plane'
+          type : 'text-muted'
+
+    - class : 2015-10-30 # Fri
+      notes : false
+      other :
+        - name : 'Conference Travel'
+          icon : 'fa-plane'
+          type : 'text-muted'
+
+- week : 11
+  days :
+    - class : 2015-11-02 # Mon
+      notes :
+        - name : 'Sockets'
+      other :
+        - name : 'Project 3 Multithreading'
+          icon : 'fa-calendar-check-o'
+          type : 'text-success'
+
+    - class : 2015-11-04 # Wed
+      notes :
+        - name : 'HTTP and HTML'
+      other : false
+
+    - class : 2015-11-06 # Fri
+      notes : false
+      other :
+        - name : 'Withdraw Deadline'
+          icon : 'fa-calendar'
+          type : 'text-muted'
+
+- week : 12
+  days :
+    - class : 2015-11-09 # Mon
+      notes :
+        - name : 'Servlets'
+      other : false
+
+    - class : 2015-11-11 # Wed
+      notes :
+        - name : 'Sessions'
+      other : false
+
+    - class : 2015-11-13 # Fri
+      notes : false
+      other : false
+
+- week : 13
+  days :
+    - class : 2015-11-16 # Mon
+      notes :
+        - name : 'SQL Basics'
+      other : false
+
+    - class : 2015-11-18 # Wed
+      notes :
+        - name : 'SQL Joins'
+      other : false
+
+    - class : 2015-11-20 # Fri
+      notes : false
+      other : false
+
+- week : 14
+  days :
+    - class : 2015-11-23 # Mon
+      notes :
+        - name : 'Comprehensive Demo'
+      other :
+        - name : 'Project 4 Web Crawler'
+          icon : 'fa-calendar-check-o'
+          type : 'text-success'
+
+    - class : 2015-11-25 # Wed
+      notes :
+        - name : 'Comprehensive Demo'
+      other : false
+
+    - class : 2015-11-27 # Fri
+      notes :
+        - name : 'No Class (Thanksgiving)'
+          icon : 'fa-calendar-times-o'
+          type : 'text-muted'
+      other : false
+
+- week : 15
+  days :
+    - class : 2015-11-30 # Mon
+      notes :
+        - name : 'Exam 2 Review'
+          icon : 'fa-file-text-o'
+      other : false
+
+    - class : 2015-12-02 # Wed
+      notes :
+        - name : 'Exam 2'
+          type : 'text-danger'
+          icon : 'fa-flag'
+      other : false
+
+    - class : 2015-12-04 # Fri
+      notes :
+        - name : 'Exam 2 Retake'
+          icon : 'fa-book'
+      other : false
+
+- week : 16
+  days :
+    - class : 2015-12-07 # Mon
+      notes :
+        - name : 'Search Engine Demos'
+      other : false
+
+    - class : 2015-12-09 # Wed
+      notes :
+        - name : "Recap and What's Next"
+      other :
+        - name : 'Class Ends'
+          icon : 'fa-calendar'
+          type : 'text-muted'
+
+    - class : false # Fri
+      notes : false
+      other : false
+
+- week : '<small>Finals</small>'
+  days :
+    - class : 2015-12-14 # Mon
+      notes :
+        - name : 'Interactive Grading'
+          icon : 'fa-calendar'
+      other :
+        - name : 'Project 5 Search Engine'
+          icon : 'fa-calendar-check-o'
+          type : 'text-success'
+
+    - class : 2015-12-16 # Wed
+      notes :
+        - name : 'Interactive Grading'
+          icon : 'fa-calendar'
+      other : false
+
+    - class : false # Fri
+      notes : false
+      other : false

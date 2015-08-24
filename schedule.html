@@ -1,0 +1,96 @@
+---
+layout: default
+title: Schedule
+---
+
+<h1 class="page-header">{{ page.title }}</h1>
+
+<div class="panel panel-default">
+<table class="table table-hover">
+
+<thead>
+<tr>
+  <th>Week</th>
+  <th colspan="2">Monday</th>
+  <th colspan="2">Wednesday</th>
+  <th colspan="2">Friday</th>
+</thead>
+
+<tbody>
+{% for row in site.data.schedule %}
+<tr>
+  <td class="nowrap text-muted text-center">{{ row.week }}</td>
+
+  {% for day in row.days %}
+
+  <td class="nowrap text-muted text-center">
+    {% if day.class %}
+    {{ day.class | date: "%m/%d" }}
+    {% else %}
+    &nbsp;
+    {% endif %}
+  </td>
+
+  <td class="fill33">
+    {% if day.notes %}
+
+    {% if day.other %}
+    <ul class="fa-ul">
+    {% else %}
+    <ul class="fa-ul" style="margin-bottom: 0px;">
+    {% endif %}
+
+    {% for item in day.notes %}
+    {% if item.type %}
+    <li class="{{ item.type }}">
+    {% else %}
+    <li>
+    {% endif %}
+
+    {% if item.icon %}
+      <i class="fa fa-li {{ item.icon }}"></i>
+    {% else %}
+      <i class="fa fa-li fa-file-o"></i>
+    {% endif %}
+    {% if item.link %}<a href="{{ item.link }}">{% endif %}
+    {{ item.name }}
+    {% if item.link %}</a>{% endif %}
+
+    </li>
+    {% endfor %}
+    </ul>
+    {% endif %}
+
+
+
+    {% if day.other %}
+    <ul class="fa-ul" style="margin-bottom: 0px;">
+    {% for item in day.other %}
+    {% if item.type %}
+    <li class="{{ item.type }}">
+    {% else %}
+    <li>
+    {% endif %}
+
+    {% if item.icon %}
+      <i class="fa fa-li {{ item.icon }}"></i>
+    {% else %}
+      <i class="fa fa-li fa-file-o"></i>
+    {% endif %}
+    {% if item.link %}<a href="{{ item.link }}">{% endif %}
+    {{ item.name }}
+    {% if item.link %}</a>{% endif %}
+
+    </li>
+    {% endfor %}
+    </ul>
+    {% endif %}
+  </td>
+
+  {% endfor #day %}
+</tr>
+{% endfor #row %}
+
+</tbody>
+</table>
+</div>
