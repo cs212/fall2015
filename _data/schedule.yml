@@ -8,7 +8,11 @@
           link : '{{ site.github.url }}/syllabus.html'
           icon : 'fa-link'
         - name : 'Project Euler'
+          link : 'https://github.com/cs212/lectures/tree/fall2015/ProjectEuler'
           icon : 'fa-file-code-o'
+        - name : 'Java Basics'
+          link : 'https://www.youtube.com/playlist?list=PLm6V-0HXZmF2ABbB7JPUiSvFGqzB9-Znu'
+          icon : 'fa-youtube-play'
       other :
         - name : 'Class Begins'
           icon : 'fa-calendar'
