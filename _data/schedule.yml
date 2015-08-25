@@ -8,8 +8,8 @@
           link : '{{ site.github.url }}/syllabus.html'
           icon : 'fa-link'
         - name : 'Project Euler'
-          link : 'https://github.com/cs212/lectures/tree/fall2015/ProjectEuler'
-          icon : 'fa-file-code-o'
+          link : 'https://github.com/cs212/lectures/tree/fall2015/Project%20Euler'
+          icon : 'fa-github-square'
         - name : 'Java Basics'
           link : 'https://www.youtube.com/playlist?list=PLm6V-0HXZmF2ABbB7JPUiSvFGqzB9-Znu'
           icon : 'fa-youtube-play'
@@ -20,11 +20,12 @@
 
     - class : 2015-08-28 # Fri
       notes :
-        - name : 'Configuring Eclipse'
-          icon : 'fa-file-powerpoint-o'
+        - name : 'Getting Started'
+          icon : 'fa-github-square'
+
+      other :
         - name : 'Argument Parser'
           icon : 'fa-github-square'
-      other :
         - name : 'Java Basics'
           icon : 'fa-pencil-square-o'
         - name : 'Background Survey'
