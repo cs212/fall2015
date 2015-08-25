@@ -9,7 +9,7 @@
           icon : 'fa-link'
         - name : 'Project Euler'
           link : 'https://github.com/cs212/lectures/tree/fall2015/Project%20Euler'
-          icon : 'fa-github-square'
+          icon : 'fa-github-alt'
         - name : 'Java Basics'
           link : 'https://www.youtube.com/playlist?list=PLm6V-0HXZmF2ABbB7JPUiSvFGqzB9-Znu'
           icon : 'fa-youtube-play'
@@ -21,11 +21,12 @@
     - class : 2015-08-28 # Fri
       notes :
         - name : 'Getting Started'
-          icon : 'fa-github-square'
+          link : 'https://github.com/cs212/lectures/tree/fall2015/Getting%20Started'
+          icon : 'fa-github-alt'
 
       other :
         - name : 'Argument Parser'
-          icon : 'fa-github-square'
+          icon : 'fa-github-alt'
         - name : 'Java Basics'
           icon : 'fa-pencil-square-o'
         - name : 'Background Survey'
