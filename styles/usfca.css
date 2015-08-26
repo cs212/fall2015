@@ -94,32 +94,36 @@ table.noborder, table.noborder tr td {
 }
 
 a.anchor {
-    color: inherit;
+  color: inherit;
 }
 
 .anchor i.fa {
-    width: 1.5em;
-    text-align: center;
-    margin-left: -1.5em;
-    opacity: 0.75;
-    visibility: hidden;
+  width: 1.5em;
+  text-align: center;
+  margin-left: -1.5em;
+  opacity: 0.75;
+  visibility: hidden;
 }
 
 .anchor:hover i.fa {
-    visibility: visible;
+  visibility: visible;
 }
 
 .anchor:hover {
-    text-decoration: inherit;
+  text-decoration: inherit;
 }
 
 .iffy {
-    color: lightgray;
-    opacity: 0.75;
+  color: lightgray;
+  opacity: 0.75;
 }
 
 .iffy a {
-    color: inherit;
+  color: inherit;
+}
+
+.more-muted {
+  color: lightgray;
 }
 
 /* usf official colors */
@@ -145,3 +149,4 @@ a.anchor {
 .usf-green-fg {
   color: #00543c;
 }
+

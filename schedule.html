@@ -25,14 +25,15 @@ title: Schedule
 
   <td class="nowrap text-muted text-center">
     {% if day.class %}
-    {{ day.class | date: "%m/%d" }}
+    <small>{{ day.class | date: "%m/%d" }}</small>
     {% else %}
-    &nbsp;
+    <small>&nbsp;</small>
     {% endif %}
   </td>
 
   <td class="fill33">
     {% if day.notes %}
+    <strong class="small text-uppercase more-muted">Lectures &amp; Notes</strong>
 
     {% if day.other %}
     <ul class="fa-ul">
@@ -64,6 +65,8 @@ title: Schedule
 
 
     {% if day.other %}
+    <strong class="small text-uppercase more-muted">Dates &amp; Assignments</strong>
+
     <ul class="fa-ul" style="margin-bottom: 0px;">
     {% for item in day.other %}
     {% if item.type %}

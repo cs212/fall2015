@@ -56,7 +56,7 @@ title: Home
     <td class="nowrap text-muted text-center">{{ row.week }}</td>
     {% for day in row.days %}
     <td class="fill33">
-      {% if day.notes %}{{ day.notes | map: 'name' | join: ', ' }}{% else %}&nbsp;{% endif %}
+      {% if day.notes %}{{ day.notes | map: 'name' | join: ', ' }}{% else %}<em class="text-muted">Pending</em>{% endif %}
     </td>
   {% endfor #day %}</tr>
   {% endfor #row %}
