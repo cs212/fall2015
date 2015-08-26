@@ -27,8 +27,7 @@
       other :
         - name : 'Argument Parser'
           icon : 'fa-github-alt'
-        - name : 'Java Basics'
-          icon : 'fa-pencil-square-o'
+          link : 'https://github.com/cs212/homework/tree/fall2015/ArgumentParser'
         - name : 'Background Survey'
           link : 'https://usfca.instructure.com/courses/1553675/quizzes/2292151'
           icon : 'fa-pencil-square-o'
