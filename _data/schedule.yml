@@ -140,17 +140,17 @@
       other : false
 
     - class : 2015-10-07 # Wed
-      notes : false
-      other :
+      notes :
         - name : 'Exam 1'
           type : 'text-danger'
           icon : 'fa-flag'
+      other : false
 
     - class : 2015-10-09 # Fri
-      notes : false
-      other :
+      notes :
         - name : 'Exam 1 Retake'
           icon : 'fa-book'
+      other : false
 
 - week : 8
   days :
@@ -174,11 +174,11 @@
 - week : 9
   days :
     - class : 2015-10-19 # Mon
-      notes : false
-      other :
+      notes :
         - name : 'No Class (Fall Break)'
           icon : 'fa-calendar-times-o'
           type : 'text-muted'
+      other : false
 
 
     - class : 2015-10-21 # Wed
@@ -209,7 +209,7 @@
           type : 'text-muted'
 
     - class : 2015-10-30 # Fri
-      notes : false
+      notes : '<a href="https://blog.appdynamics.com/author/anthony-kilman/">Anthony Kilman</a>, <a href="https://www.appdynamics.com/">AppDynamics</a>'
       other :
         - name : 'Conference Travel'
           icon : 'fa-plane'
