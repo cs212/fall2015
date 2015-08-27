@@ -35,34 +35,4 @@ title: Home
 
 <iframe src="https://www.google.com/calendar/embed?title=CS%20212&amp;showTitle=0&amp;showPrint=0&amp;showCalendars=0&amp;height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=cs.usfca.edu_3gh6b2i2l34rsh6mbcos8qrapg%40group.calendar.google.com&amp;color=%23125A12&amp;src=cs.usfca.edu_m4pfugives9824svmqi94vuchk%40group.calendar.google.com&amp;color=%23125A12&amp;src=03e3j1o69qe7fma5u84c8mi11rtd7oih%40import.calendar.google.com&amp;color=%23125A12&amp;src=cs.usfca.edu_tp0ff9slj7vauhfvv9nhb62dpc%40group.calendar.google.com&amp;color=%23333333&amp;ctz=America%2FLos_Angeles" style=" border-width:0 " width="100%" height="600" frameborder="0" scrolling="no"></iframe>
 
-<h2>Weekly Topics</h2>
-
-<!-- condensed weekly schedule (see schedule.yml) -->
-<div class="panel panel-default">
-  <table class="table table-hover">
-
-  <thead>
-    <tr>
-      <th>Week</th>
-      <th>Monday</th>
-      <th>Wednesday</th>
-      <th>Friday</th>
-    </tr>
-  </thead>
-
-  <tbody>
-  {% for row in site.data.schedule %}
-  <tr>
-    <td class="nowrap text-muted text-center">{{ row.week }}</td>
-    {% for day in row.days %}
-    <td class="fill33">
-      {% if day.notes %}{{ day.notes | map: 'name' | join: ', ' }}{% else %}<em class="text-muted">Pending</em>{% endif %}
-    </td>
-  {% endfor #day %}</tr>
-  {% endfor #row %}
-
-  </tbody>
-  </table>
-</div>
-
 <p>See the <a href="{{ site.github.url }}/schedule.html">Schedule</a> page for deadlines and more information.</p>

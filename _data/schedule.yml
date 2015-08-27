@@ -23,7 +23,9 @@
         - name : 'Getting Started'
           link : 'https://github.com/cs212/lectures/tree/fall2015/Getting%20Started'
           icon : 'fa-github-alt'
-
+        - name : 'Lab Instructions'
+          link : 'https://github.com/cs212/lectures/blob/fall2015/Labs/Week%2001:%202015-08-28.md'
+          icon : 'fa-github-alt'
       other :
         - name : 'Argument Parser'
           icon : 'fa-github-alt'
