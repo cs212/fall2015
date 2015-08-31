@@ -44,7 +44,13 @@
   days :
     - class : 2015-08-31 # Mon
       notes :
-        - name : 'Data Structures'
+        - name : 'Data Structures &ndash; Types'
+          link : 'https://drive.google.com/open?id=0BxYofk0iB_upQThpbGphTXlTTEk'
+          icon : 'fa-file-powerpoint-o'
+        - name : 'Data Structures &ndash; Framework'
+          link : 'https://drive.google.com/open?id=0BxYofk0iB_updENzRGRoRnQ0UEU'
+          icon : 'fa-file-powerpoint-o'
+        - name : 'Data Structures &ndash; Demos'
           link : 'https://github.com/cs212/lectures/tree/fall2015/Data%20Structures'
           icon : 'fa-github-alt'
       other :
