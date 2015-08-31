@@ -45,6 +45,8 @@
     - class : 2015-08-31 # Mon
       notes :
         - name : 'Data Structures'
+          link : 'https://github.com/cs212/lectures/tree/fall2015/Data%20Structures'
+          icon : 'fa-github-alt'
       other :
         - name : 'Add Deadline'
           icon : 'fa-calendar'
