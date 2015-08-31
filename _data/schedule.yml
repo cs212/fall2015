@@ -5,7 +5,7 @@
     - class : 2015-08-26 # Wed
       notes :
         - name : 'Course Syllabus'
-          link : '{{ site.github.url }}/syllabus.html'
+          link : 'syllabus.html'
           icon : 'fa-link'
         - name : 'Project Euler'
           link : 'https://github.com/cs212/lectures/tree/fall2015/Project%20Euler'
