@@ -67,15 +67,14 @@
           link : 'https://youtu.be/1Z6zWIG_acE'
           icon : 'fa-youtube-play'
       other :
-        - name : 'Quiz: Data Structures (First Attempt)'
+        - name : 'Quiz: Data Structures'
           link : 'https://usfca.instructure.com/courses/1553675/quizzes/2292156'
           icon : 'fa-pencil-square-o'
-          type : 'text-muted'
 
     - class : 2015-09-04 # Fri
       notes : false
       other :
-        - name : 'Quiz: Data Structures (Last Attempt)'
+        - name : 'Quiz: Data Structures'
           link : 'https://usfca.instructure.com/courses/1553675/quizzes/2292156'
           icon : 'fa-pencil-square-o'
 
