@@ -60,7 +60,12 @@
 
     - class : 2015-09-02 # Wed
       notes :
-        - name : 'Iteration'
+        - name : 'Data Structures &ndash; Demos'
+          link : 'https://github.com/cs212/lectures/tree/fall2015/Data%20Structures'
+          icon : 'fa-github-alt'
+        - name : 'Data Structures &ndash; Iteration'
+          link : 'https://youtu.be/1Z6zWIG_acE'
+          icon : 'fa-youtube-play'
       other : false
 
     - class : 2015-09-04 # Fri
@@ -75,8 +80,6 @@
           icon : 'fa-calendar-times-o'
           type : 'text-muted'
       other : false
-
-
 
     - class : 2015-09-09 # Wed
       notes :
