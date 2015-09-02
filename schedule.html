@@ -80,6 +80,7 @@ title: Schedule
     {% else %}
       <i class="fa fa-li fa-file-o"></i>
     {% endif %}
+    {% if item.note %}<small><span class="label label-default">{{ item.note }}</span></small>{% endif %}
     {% if item.link %}<a href="{{ item.link }}">{% endif %}
     {{ item.name }}
     {% if item.link %}</a>{% endif %}

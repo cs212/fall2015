@@ -33,12 +33,16 @@
         - name : 'Background Survey'
           link : 'https://usfca.instructure.com/courses/1553675/quizzes/2292151'
           icon : 'fa-pencil-square-o'
+          note : 'Due'
         - name : 'Github Account'
           link : 'https://usfca.instructure.com/courses/1553675/quizzes/2292144'
           icon : 'fa-pencil-square-o'
+          note : 'Due'
         - name : 'Piazza Confirmation'
           link : 'https://piazza.com/class/idp68bejrhd68n?cid=7'
           icon : 'fa-pencil-square-o'
+          note : 'Due'
+
 
 - week : 2
   days :
@@ -72,11 +76,23 @@
           icon : 'fa-pencil-square-o'
 
     - class : 2015-09-04 # Fri
-      notes : false
+      notes :
+        - name : 'Lab Instructions'
+          link : 'https://github.com/cs212/lectures/blob/fall2015/Labs/Week%2002:%202015-09-04.md'
+          icon : 'fa-github-alt'
+
       other :
+        - name : 'Word Index'
+          link : 'https://github.com/cs212/homework/tree/fall2015/WordIndex'
+          icon : 'fa-github-alt'
+        - name : 'Argument Parser'
+          icon : 'fa-github-alt'
+          link : 'https://github.com/cs212/homework/tree/fall2015/ArgumentParser'
+          note : 'Due'
         - name : 'Quiz: Data Structures'
           link : 'https://usfca.instructure.com/courses/1553675/quizzes/2292156'
           icon : 'fa-pencil-square-o'
+          note : 'Due'
 
 - week : 3
   days :
