@@ -80,7 +80,9 @@
         - name : 'Lab Instructions'
           link : 'https://github.com/cs212/lectures/blob/fall2015/Labs/Week%2002:%202015-09-04.md'
           icon : 'fa-github-alt'
-
+        - name : 'Homework Submission'
+          link : 'https://youtu.be/UqbBnKWofII'
+          icon : 'fa-youtube-play'
       other :
         - name : 'Word Index'
           link : 'https://github.com/cs212/homework/tree/fall2015/WordIndex'
