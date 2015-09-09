@@ -107,12 +107,19 @@
 
     - class : 2015-09-09 # Wed
       notes :
-        - name : 'File Processing'
+        - name : 'Files and Exceptions'
+          link : 'https://github.com/cs212/lectures/tree/fall2015/Files%20and%20Exceptions'
+          icon : 'fa-github-alt'
       other : false
 
     - class : 2015-09-11 # Fri
       notes : false
       other :
+        - name : 'JSONTreeWriter'
+        - name : 'Word Index'
+          link : 'https://github.com/cs212/homework/tree/fall2015/WordIndex'
+          icon : 'fa-github-alt'
+          note : 'Due'
         - name : 'Census Date'
           icon : 'fa-calendar'
           type : 'text-muted'
