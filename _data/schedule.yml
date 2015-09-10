@@ -239,6 +239,7 @@
     - class : 2015-10-26 # Mon
       notes :
         - name : 'Regular Expressions'
+        - name : 'Unit Testing'
       other :
         - name : 'Conference Travel'
           icon : 'fa-plane'
@@ -246,7 +247,9 @@
 
     - class : 2015-10-28 # Wed
       notes :
-        - name : 'Unit Testing'
+        - name : 'Priya Rattan (AppDynamics) on Node JS 101'
+          icon : 'fa-flag'
+          type : 'text-danger'
       other :
         - name : 'Conference Travel'
           icon : 'fa-plane'
@@ -254,7 +257,7 @@
 
     - class : 2015-10-30 # Fri
       notes :
-        - name : 'Anthony Kilman, AppDynamics'
+        - name : 'Anthony Kilman (AppDynamics) on Software Design, Complexity and Performance'
           icon : 'fa-flag'
           link : 'https://blog.appdynamics.com/author/anthony-kilman/'
           type : 'text-danger'
