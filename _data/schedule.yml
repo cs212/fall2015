@@ -115,7 +115,12 @@
     - class : 2015-09-11 # Fri
       notes : false
       other :
-        - name : 'JSONTreeWriter'
+        - name : 'Word Parser'
+          link : 'https://github.com/cs212/homework/tree/fall2015/WordParser'
+          icon : 'fa-github-alt'
+        - name : 'JSON TreeWriter'
+          link : 'https://github.com/cs212/homework/tree/fall2015/JSONTreeWriter'
+          icon : 'fa-github-alt'
         - name : 'Word Index'
           link : 'https://github.com/cs212/homework/tree/fall2015/WordIndex'
           icon : 'fa-github-alt'
@@ -138,8 +143,16 @@
 
     - class : 2015-09-18 # Fri
       notes : false
-      other : false
-
+      other :
+        - name : 'InvertedIndex'
+        - name : 'WordParser'
+          link : 'https://github.com/cs212/homework/tree/fall2015/WordParser'
+          icon : 'fa-github-alt'
+          note : 'Due'
+        - name : 'JSON TreeWriter'
+          link : 'https://github.com/cs212/homework/tree/fall2015/JSONTreeWriter'
+          icon : 'fa-github-alt'
+          note : 'Due'
 - week : 5
   days :
     - class : 2015-09-21 # Mon
@@ -249,6 +262,7 @@
       notes :
         - name : 'Priya Rattan (AppDynamics) on Node JS 101'
           icon : 'fa-flag'
+          link : 'https://www.appdynamics.com/'
           type : 'text-danger'
       other :
         - name : 'Conference Travel'
