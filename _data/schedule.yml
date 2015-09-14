@@ -133,7 +133,9 @@
   days :
     - class : 2015-09-14 # Mon
       notes :
-        - name : 'Objects'
+        - name : 'OOP Principles'
+          link : 'https://github.com/cs212/lectures/tree/fall2015/OOP%20Principles'
+          icon : 'fa-github-alt'
       other : false
 
     - class : 2015-09-16 # Wed
