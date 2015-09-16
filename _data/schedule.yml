@@ -133,20 +133,24 @@
   days :
     - class : 2015-09-14 # Mon
       notes :
-        - name : 'OOP Principles'
+        - name : 'OOP Principles (Terminology)'
           link : 'https://github.com/cs212/lectures/tree/fall2015/OOP%20Principles'
           icon : 'fa-github-alt'
       other : false
 
     - class : 2015-09-16 # Wed
       notes :
-        - name : 'Mutability'
+        - name : 'OOP Principles (Mutability)'
+          link : 'https://github.com/cs212/lectures/tree/fall2015/OOP%20Principles'
+          icon : 'fa-github-alt'
       other : false
 
     - class : 2015-09-18 # Fri
       notes : false
       other :
-        - name : 'InvertedIndex'
+        - name : 'Project 1 - Inverted Index'
+          link : 'https://github.com/cs212/projects/blob/fall2015/projects/Project%201%20Inverted%20Index.md'
+          icon : 'fa-github-alt'
         - name : 'WordParser'
           link : 'https://github.com/cs212/homework/tree/fall2015/WordParser'
           icon : 'fa-github-alt'
