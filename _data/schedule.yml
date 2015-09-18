@@ -151,6 +151,9 @@
         - name : 'Project 1 - Inverted Index'
           link : 'https://github.com/cs212/projects/blob/fall2015/projects/Project%201%20Inverted%20Index.md'
           icon : 'fa-github-alt'
+        - name : 'Quiz: OOP Terminology'
+          link : 'https://usfca.instructure.com/courses/1553675/quizzes/2293960'
+          icon : 'fa-pencil-square-o'
         - name : 'WordParser'
           link : 'https://github.com/cs212/homework/tree/fall2015/WordParser'
           icon : 'fa-github-alt'
@@ -176,7 +179,11 @@
 
     - class : 2015-09-25 # Fri
       notes : false
-      other : false
+      other :
+        - name : 'Quiz: OOP Terminology'
+          link : 'https://usfca.instructure.com/courses/1553675/quizzes/2293960'
+          icon : 'fa-pencil-square-o'
+          note : 'Due'
 
 - week : 6
   days :
