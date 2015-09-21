@@ -172,12 +172,19 @@
   days :
     - class : 2015-09-21 # Mon
       notes :
-        - name : 'Inheritance Basics'
+        - name : 'Inheritance (Basics)'
+          link : 'https://github.com/cs212/lectures/tree/fall2015/Inheritance'
+          icon : 'fa-github-alt'
+        - name : 'Inheritance (Assorted Videos)'
+          link : 'https://www.youtube.com/playlist?list=PLm6V-0HXZmF3mE1Mxg0HFFJyBnGQdstY0'
+          icon : 'fa-youtube-play'
       other : false
 
     - class : 2015-09-23 # Wed
       notes :
-        - name : 'Advanced Inheritance'
+        - name : 'Inheritance (Advanced)'
+          link : 'https://github.com/cs212/lectures/tree/fall2015/Inheritance'
+          icon : 'fa-github-alt'
       other : false
 
     - class : 2015-09-25 # Fri
