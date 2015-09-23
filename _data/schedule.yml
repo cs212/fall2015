@@ -185,11 +185,22 @@
         - name : 'Inheritance (Advanced)'
           link : 'https://github.com/cs212/lectures/tree/fall2015/Inheritance'
           icon : 'fa-github-alt'
-      other : false
+      other :
+        - name : 'Quiz: Casting'
+          link : 'https://usfca.instructure.com/courses/1553675/quizzes/2292158'
+          icon : 'fa-pencil-square-o'
 
     - class : 2015-09-25 # Fri
-      notes : false
+      notes :
+        - name : 'Lab Instructions'
+          link : 'https://github.com/cs212/lectures/blob/fall2015/Labs/Week%2002:%202015-09-04.md'
+          icon : 'fa-github-alt'
+
       other :
+        - name : 'Inheritance Quizzes (x4)'
+          link : 'https://usfca.instructure.com/courses/1553675/quizzes'
+          icon : 'fa-pencil-square-o'
+
         - name : 'Quiz: OOP Terminology'
           link : 'https://usfca.instructure.com/courses/1553675/quizzes/2293960'
           icon : 'fa-pencil-square-o'
@@ -220,7 +231,11 @@
 
     - class : 2015-10-02 # Fri
       notes : false
-      other : false
+      other :
+        - name : 'Inheritance Quizzes (x4)'
+          link : 'https://usfca.instructure.com/courses/1553675/quizzes'
+          icon : 'fa-pencil-square-o'
+          note : 'Due'
 
 - week : 7
   days :
