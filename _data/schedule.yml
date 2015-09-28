@@ -219,6 +219,17 @@
     - class : 2015-09-28 # Mon
       notes :
         - name : 'Debugging'
+          link : 'https://github.com/cs212/lectures/tree/fall2015/Debugging'
+          icon : 'fa-github-alt'
+        - name : 'Debugging - Assertions'
+          link : 'https://drive.google.com/open?id=0BxYofk0iB_upbWRtbVd6bVVRZ0k'
+          icon : 'fa-file-powerpoint-o'
+        - name : 'Debugging - Logging'
+          link : 'https://drive.google.com/open?id=0BxYofk0iB_upZnc3LTYyOHlsbmM'
+          icon : 'fa-file-powerpoint-o'
+        - name : 'Apache Log4j 2'
+          link : 'http://logging.apache.org/log4j/2.x/'
+          icon : 'fa-external-link'
       other :
         - name : 'Project 1 Inverted Index'
           icon : 'fa-calendar-check-o'
