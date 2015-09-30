@@ -27,22 +27,21 @@
           link : 'https://github.com/cs212/lectures/blob/fall2015/Labs/Week%2001:%202015-08-28.md'
           icon : 'fa-github-alt'
       other :
-        - name : 'Argument Parser'
+        - name : 'Code: Argument Parser'
           icon : 'fa-github-alt'
           link : 'https://github.com/cs212/homework/tree/fall2015/ArgumentParser'
-        - name : 'Background Survey'
+        - name : 'Survey: Background Survey'
           link : 'https://usfca.instructure.com/courses/1553675/quizzes/2292151'
           icon : 'fa-pencil-square-o'
           note : 'Due'
-        - name : 'Github Account'
+        - name : 'Survey: Github Account'
           link : 'https://usfca.instructure.com/courses/1553675/quizzes/2292144'
           icon : 'fa-pencil-square-o'
           note : 'Due'
-        - name : 'Piazza Confirmation'
+        - name : 'Survey: Piazza Confirmation'
           link : 'https://piazza.com/class/idp68bejrhd68n?cid=7'
           icon : 'fa-pencil-square-o'
           note : 'Due'
-
 
 - week : 2
   days :
@@ -84,10 +83,10 @@
           link : 'https://youtu.be/UqbBnKWofII'
           icon : 'fa-youtube-play'
       other :
-        - name : 'Word Index'
+        - name : 'Code: Word Index'
           link : 'https://github.com/cs212/homework/tree/fall2015/WordIndex'
           icon : 'fa-github-alt'
-        - name : 'Argument Parser'
+        - name : 'Code: Argument Parser'
           icon : 'fa-github-alt'
           link : 'https://github.com/cs212/homework/tree/fall2015/ArgumentParser'
           note : 'Due'
@@ -115,42 +114,45 @@
     - class : 2015-09-11 # Fri
       notes : false
       other :
-        - name : 'Word Parser'
-          link : 'https://github.com/cs212/homework/tree/fall2015/WordParser'
-          icon : 'fa-github-alt'
-        - name : 'JSON TreeWriter'
-          link : 'https://github.com/cs212/homework/tree/fall2015/JSONTreeWriter'
-          icon : 'fa-github-alt'
-        - name : 'Word Index'
-          link : 'https://github.com/cs212/homework/tree/fall2015/WordIndex'
-          icon : 'fa-github-alt'
-          note : 'Due'
         - name : 'Census Date'
           icon : 'fa-calendar'
           type : 'text-muted'
+        - name : 'Code: Word Parser'
+          link : 'https://github.com/cs212/homework/tree/fall2015/WordParser'
+          icon : 'fa-github-alt'
+        - name : 'Code: JSON TreeWriter'
+          link : 'https://github.com/cs212/homework/tree/fall2015/JSONTreeWriter'
+          icon : 'fa-github-alt'
+        - name : 'Code: Word Index'
+          link : 'https://github.com/cs212/homework/tree/fall2015/WordIndex'
+          icon : 'fa-github-alt'
+          note : 'Due'
 
 - week : 4
   days :
     - class : 2015-09-14 # Mon
       notes :
-        - name : 'OOP Principles (Terminology)'
+        - name : 'OOP Principles &ndash; Terminology'
           link : 'https://github.com/cs212/lectures/tree/fall2015/OOP%20Principles'
           icon : 'fa-github-alt'
+        - name : 'Java Glossary of Terms'
+          link : 'http://docs.oracle.com/javase/tutorial/information/glossary.html'
+          icon : 'fa-external-link'
       other : false
 
     - class : 2015-09-16 # Wed
       notes :
-        - name : 'OOP Principles (Mutability)'
+        - name : 'OOP Principles &ndash; Mutability'
           link : 'https://github.com/cs212/lectures/tree/fall2015/OOP%20Principles'
           icon : 'fa-github-alt'
       other : false
 
     - class : 2015-09-18 # Fri
-      notes : false
-      other :
+      notes :
         - name : 'Project 1 - Inverted Index'
           link : 'https://github.com/cs212/projects/blob/fall2015/projects/Project%201%20Inverted%20Index.md'
           icon : 'fa-github-alt'
+      other :
         - name : 'Quiz: OOP Terminology'
           link : 'https://usfca.instructure.com/courses/1553675/quizzes/2293960'
           icon : 'fa-pencil-square-o'
@@ -160,11 +162,11 @@
         - name : 'Quiz: Mutability, Part 2'
           link : 'https://usfca.instructure.com/courses/1553675/quizzes/2292150'
           icon : 'fa-pencil-square-o'
-        - name : 'WordParser'
+        - name : 'Code: WordParser'
           link : 'https://github.com/cs212/homework/tree/fall2015/WordParser'
           icon : 'fa-github-alt'
           note : 'Due'
-        - name : 'JSON TreeWriter'
+        - name : 'Code: JSON TreeWriter'
           link : 'https://github.com/cs212/homework/tree/fall2015/JSONTreeWriter'
           icon : 'fa-github-alt'
           note : 'Due'
@@ -172,19 +174,45 @@
   days :
     - class : 2015-09-21 # Mon
       notes :
-        - name : 'Inheritance (Basics)'
+        - name : 'Inheritance &ndash; Demos'
           link : 'https://github.com/cs212/lectures/tree/fall2015/Inheritance'
           icon : 'fa-github-alt'
-        - name : 'Inheritance (Assorted Videos)'
+        - name : 'Inheritance &ndash; Assorted Videos'
           link : 'https://www.youtube.com/playlist?list=PLm6V-0HXZmF3mE1Mxg0HFFJyBnGQdstY0'
           icon : 'fa-youtube-play'
+        - name : 'Inheritance &ndash; Introduction'
+          icon : 'fa-file-powerpoint-o'
+          link : 'https://drive.google.com/open?id=0BxYofk0iB_upbFlMM2E0bWhwVnc'
+        - name : 'Inheritance &ndash; Object Class'
+          icon : 'fa-file-powerpoint-o'
+          link : 'https://drive.google.com/open?id=0BxYofk0iB_upZ0ZnYm5iT2hjOXc'
+        - name : 'Inheritance &ndash; Final Keyword'
+          icon : 'fa-file-powerpoint-o'
+          link : 'https://drive.google.com/open?id=0BxYofk0iB_upTXU2b1BQcWRFcjQ'
+        - name : 'Inheritance &ndash; Casting'
+          icon : 'fa-file-powerpoint-o'
+          link : 'https://drive.google.com/open?id=0BxYofk0iB_upempmQWFJd0xFWjg'
+
       other : false
 
     - class : 2015-09-23 # Wed
       notes :
-        - name : 'Inheritance (Advanced)'
+        - name : 'Inheritance &ndash; Demos'
           link : 'https://github.com/cs212/lectures/tree/fall2015/Inheritance'
           icon : 'fa-github-alt'
+        - name : 'Inheritance &ndash; Abstract and Interface'
+          icon : 'fa-file-powerpoint-o'
+          link : 'https://drive.google.com/open?id=0BxYofk0iB_upM0Z4MVZLbXdWb3M'
+        - name : 'Inheritance &ndash; Collections Revisited'
+          icon : 'fa-file-powerpoint-o'
+          link : 'https://drive.google.com/open?id=0BxYofk0iB_upaFM2bUkwSnVoZ1k'
+        - name : 'Inheritance &ndash; Nested Classes'
+          icon : 'fa-file-powerpoint-o'
+          link : 'https://drive.google.com/open?id=0BxYofk0iB_upWFpPd25oYjNjd00'
+        - name : 'Inheritance &ndash; Generics'
+          icon : 'fa-file-powerpoint-o'
+          link : 'https://drive.google.com/open?id=0BxYofk0iB_upS3M1Z0Qxd0NfUWs'
+
       other :
         - name : 'Quiz: Casting'
           link : 'https://usfca.instructure.com/courses/1553675/quizzes/2292158'
@@ -195,12 +223,10 @@
         - name : 'Lab Instructions'
           link : 'https://github.com/cs212/lectures/blob/fall2015/Labs/Week%2002:%202015-09-04.md'
           icon : 'fa-github-alt'
-
       other :
-        - name : 'Inheritance Quizzes (x4)'
+        - name : 'Quiz: Inheritance (x4)'
           link : 'https://usfca.instructure.com/courses/1553675/quizzes'
           icon : 'fa-pencil-square-o'
-
         - name : 'Quiz: OOP Terminology'
           link : 'https://usfca.instructure.com/courses/1553675/quizzes/2293960'
           icon : 'fa-pencil-square-o'
@@ -218,13 +244,13 @@
   days :
     - class : 2015-09-28 # Mon
       notes :
-        - name : 'Debugging'
+        - name : 'Debugging &ndash; Demos'
           link : 'https://github.com/cs212/lectures/tree/fall2015/Debugging'
           icon : 'fa-github-alt'
-        - name : 'Debugging - Assertions'
+        - name : 'Debugging &ndash; Assertions'
           link : 'https://drive.google.com/open?id=0BxYofk0iB_upbWRtbVd6bVVRZ0k'
           icon : 'fa-file-powerpoint-o'
-        - name : 'Debugging - Logging'
+        - name : 'Debugging &ndash; Logging'
           link : 'https://drive.google.com/open?id=0BxYofk0iB_upZnc3LTYyOHlsbmM'
           icon : 'fa-file-powerpoint-o'
         - name : 'Apache Log4j 2'
@@ -237,12 +263,25 @@
 
     - class : 2015-09-30 # Wed
       notes :
-        - name : 'Threads'
+        - name : 'Software Testing &ndash; Demos'
+          icon : 'fa-github-alt'
+          link : 'https://github.com/cs212/lectures/tree/fall2015/Unit%20Testing'
+        - name : 'Software Testing &ndash; Motivation'
+          icon : 'fa-file-powerpoint-o'
+          link : 'https://drive.google.com/open?id=0BxYofk0iB_upN09pQTBXbmxveGM'
+        - name : 'Software Testing &ndash; Basics'
+          icon : 'fa-file-powerpoint-o'
+          link : 'https://drive.google.com/open?id=0BxYofk0iB_upQnNKQnRBU1dlbk0'
+        - name : 'Software Testing &ndash; Unit Testing'
+          icon : 'fa-file-powerpoint-o'
+          link : 'https://drive.google.com/open?id=0BxYofk0iB_upNlZlU1FVTzYtWnc'
       other : false
 
     - class : 2015-10-02 # Fri
       notes : false
       other :
+        - name : 'Code: Book Sorter'
+          icon : 'fa-github-alt'
         - name : 'Inheritance Quizzes (x4)'
           link : 'https://usfca.instructure.com/courses/1553675/quizzes'
           icon : 'fa-pencil-square-o'
@@ -273,12 +312,12 @@
   days :
     - class : 2015-10-12 # Mon
       notes :
-        - name : 'Synchronization'
+        - name : 'Multithreading Basics'
       other : false
 
     - class : 2015-10-14 # Wed
       notes :
-        - name : 'Work Queues'
+        - name : 'Multithreading Basics'
       other : false
 
     - class : 2015-10-16 # Fri
@@ -299,19 +338,19 @@
 
     - class : 2015-10-21 # Wed
       notes :
-        - name : 'Conditional Synchronization'
+        - name : 'Multithreading Basics'
       other : false
 
     - class : 2015-10-23 # Fri
       notes : false
-      other : false
+      other :
+        - name : 'Code: Multireader Lock'
 
 - week : 10
   days :
     - class : 2015-10-26 # Mon
       notes :
-        - name : 'Regular Expressions'
-        - name : 'Unit Testing'
+        - name : 'HTTP and HTML Basics'
       other :
         - name : 'Conference Travel'
           icon : 'fa-plane'
@@ -319,7 +358,7 @@
 
     - class : 2015-10-28 # Wed
       notes :
-        - name : 'Priya Rattan (AppDynamics) on Node JS 101'
+        - name : '"Node JS 101" by Priya Rattan, AppDynamics'
           icon : 'fa-flag'
           link : 'https://www.appdynamics.com/'
           type : 'text-danger'
@@ -330,7 +369,7 @@
 
     - class : 2015-10-30 # Fri
       notes :
-        - name : 'Anthony Kilman (AppDynamics) on Software Design, Complexity and Performance'
+        - name : '"Software Design" by Anthony Kilman, AppDynamics'
           icon : 'fa-flag'
           link : 'https://blog.appdynamics.com/author/anthony-kilman/'
           type : 'text-danger'
@@ -343,13 +382,13 @@
   days :
     - class : 2015-11-02 # Mon
       notes :
-        - name : 'Sockets'
+        - name : 'Advanced Multithreading'
       other : false
 
 
     - class : 2015-11-04 # Wed
       notes :
-        - name : 'HTTP and HTML'
+        - name : 'Advanced Multithreading'
       other : false
 
     - class : 2015-11-06 # Fri
@@ -363,7 +402,7 @@
   days :
     - class : 2015-11-09 # Mon
       notes :
-        - name : 'Servlets'
+        - name : 'Regular Expressions'
       other :
         - name : 'Project 3 Multithreading'
           icon : 'fa-calendar-check-o'
@@ -371,40 +410,42 @@
 
     - class : 2015-11-11 # Wed
       notes :
-        - name : 'Sessions'
+        - name : 'Client and Server Sockets'
       other : false
 
     - class : 2015-11-13 # Fri
       notes : false
-      other : false
+      other :
+        - name : 'Code: Link Parser'
 
 - week : 13
   days :
     - class : 2015-11-16 # Mon
       notes :
-        - name : 'SQL Basics'
+        - name : 'Servlets using Jetty'
       other : false
 
     - class : 2015-11-18 # Wed
       notes :
-        - name : 'SQL Joins'
+        - name : 'Cookies and Sessions'
       other : false
 
     - class : 2015-11-20 # Fri
       notes : false
-      other : false
+      other :
+        - name : 'Code: HTML Cleaner'
 
 - week : 14
   days :
     - class : 2015-11-23 # Mon
       notes :
-        - name : 'Comprehensive Demo'
+        - name : 'Databases &ndash; SQL Basics'
       other : false
 
 
     - class : 2015-11-25 # Wed
       notes :
-        - name : 'Comprehensive Demo'
+        - name : 'Databases &ndash; SQL JOINs'
       other : false
 
     - class : 2015-11-27 # Fri
@@ -442,12 +483,12 @@
   days :
     - class : 2015-12-07 # Mon
       notes :
-        - name : 'Search Engine Demos'
+        - name : 'Comprehensive Demos'
       other : false
 
     - class : 2015-12-09 # Wed
       notes :
-        - name : "Recap and What's Next"
+        - name : 'Search Engine Demos'
       other :
         - name : 'Class Ends'
           icon : 'fa-calendar'
