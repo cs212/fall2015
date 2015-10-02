@@ -278,11 +278,18 @@
       other : false
 
     - class : 2015-10-02 # Fri
-      notes : false
+      notes :
+        - name : 'Lab Instructions'
+          icon : 'fa-github-alt'
+          link : 'https://github.com/cs212/lectures/blob/fall2015/Labs/Week%2006:%202015-10-02.md'
       other :
         - name : 'Code: Book Sorter'
           icon : 'fa-github-alt'
-        - name : 'Inheritance Quizzes (x4)'
+          link : 'https://github.com/cs212/homework/tree/fall2015/BookSorter'
+        - name : 'Quiz: Debugging'
+          link : 'https://github.com/cs212/homework/tree/fall2015/BookSorter'
+          icon : 'fa-pencil-square-o'
+        - name : 'Quiz: Inheritance (x4)'
           link : 'https://usfca.instructure.com/courses/1553675/quizzes'
           icon : 'fa-pencil-square-o'
           note : 'Due'
@@ -306,7 +313,15 @@
       notes :
         - name : 'Exam 1 Retake'
           icon : 'fa-book'
-      other : false
+      other :
+        - name : 'Code: Book Sorter'
+          icon : 'fa-github-alt'
+          link : 'https://github.com/cs212/homework/tree/fall2015/BookSorter'
+          note : 'Due'
+        - name : 'Quiz: Debugging'
+          link : 'https://github.com/cs212/homework/tree/fall2015/BookSorter'
+          icon : 'fa-pencil-square-o'
+          note : 'Due'
 
 - week : 8
   days :
