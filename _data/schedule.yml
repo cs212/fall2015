@@ -300,6 +300,7 @@
       notes :
         - name : 'Exam 1 Review'
           icon : 'fa-file-text-o'
+          link : 'https://usfca.instructure.com/courses/1553675/pages/exam-1-review'
       other : false
 
     - class : 2015-10-07 # Wed
