@@ -308,12 +308,14 @@
         - name : 'Exam 1'
           type : 'text-danger'
           icon : 'fa-flag'
+          link : 'https://usfca.instructure.com/courses/1553675/quizzes/2294181'
       other : false
 
     - class : 2015-10-09 # Fri
       notes :
         - name : 'Exam 1 Retake'
           icon : 'fa-book'
+          link : 'https://usfca.instructure.com/courses/1553675/quizzes/2294236'
       other :
         - name : 'Code: Book Sorter'
           icon : 'fa-github-alt'
