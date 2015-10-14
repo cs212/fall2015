@@ -340,7 +340,12 @@
 
     - class : 2015-10-14 # Wed
       notes :
-        - name : 'Multithreading Basics'
+        - name : 'Multithreading &ndash; Synchronization'
+          link : 'https://drive.google.com/open?id=0BxYofk0iB_upMHp2MDl6RTc0aWM'
+          icon : 'fa-file-powerpoint-o'
+        - name : 'Multithreading &ndash; Basic Demos'
+          link : 'https://github.com/cs212/lectures/tree/fall2015/Thread%20Basics'
+          icon : 'fa-github-alt'
       other : false
 
     - class : 2015-10-16 # Fri
