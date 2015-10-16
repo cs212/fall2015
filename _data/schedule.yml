@@ -349,8 +349,14 @@
       other : false
 
     - class : 2015-10-16 # Fri
-      notes : false
-      other : false
+      notes :
+        - name : 'Project 2 Partial Search'
+          icon : 'fa-github-alt'
+          link : 'https://github.com/cs212/projects/blob/fall2015/projects/Project%202%20Partial%20Search.md'
+      other :
+        - name : 'Quiz: Synchronization'
+          icon : 'fa-pencil-square-o'
+          link : 'https://usfca.instructure.com/courses/1553675/quizzes/2292160'
 
 - week : 9
   days :
@@ -373,6 +379,10 @@
       notes : false
       other :
         - name : 'Code: Multireader Lock'
+        - name : 'Quiz: Synchronization'
+          icon : 'fa-pencil-square-o'
+          link : 'https://usfca.instructure.com/courses/1553675/quizzes/2292160'
+          note : 'Due'
 
 - week : 10
   days :
