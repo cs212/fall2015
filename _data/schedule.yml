@@ -354,6 +354,9 @@
           icon : 'fa-github-alt'
           link : 'https://github.com/cs212/projects/blob/fall2015/projects/Project%202%20Partial%20Search.md'
       other :
+        - name : 'Quiz: Thread Basics'
+          icon : 'fa-pencil-square-o'
+          link : 'https://usfca.instructure.com/courses/1553675/quizzes/2292157'
         - name : 'Quiz: Synchronization'
           icon : 'fa-pencil-square-o'
           link : 'https://usfca.instructure.com/courses/1553675/quizzes/2292160'
@@ -379,6 +382,10 @@
       notes : false
       other :
         - name : 'Code: Multireader Lock'
+        - name : 'Quiz: Thread Basics'
+          icon : 'fa-pencil-square-o'
+          link : 'https://usfca.instructure.com/courses/1553675/quizzes/2292157'
+          note : 'Due'
         - name : 'Quiz: Synchronization'
           icon : 'fa-pencil-square-o'
           link : 'https://usfca.instructure.com/courses/1553675/quizzes/2292160'
