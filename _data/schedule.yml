@@ -402,7 +402,9 @@
   days :
     - class : 2015-10-26 # Mon
       notes :
-        - name : 'HTTP and HTML Basics'
+        - name : 'World Wide Web'
+          icon : 'fa-youtube-play'
+          link : 'https://www.youtube.com/playlist?list=PLm6V-0HXZmF2VBZ1DNto-e6lG_zggopxz'
       other :
         - name : 'Conference Travel'
           icon : 'fa-plane'
