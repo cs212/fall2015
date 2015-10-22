@@ -386,7 +386,9 @@
     - class : 2015-10-23 # Fri
       notes : false
       other :
-        - name : 'Code: Multireader Lock'
+        - name : 'Code: Read Write Lock'
+          icon : 'fa-github-alt'
+          link : 'https://github.com/cs212/homework/tree/fall2015/ReadWriteLock'
         - name : 'Quiz: Thread Basics'
           icon : 'fa-pencil-square-o'
           link : 'https://usfca.instructure.com/courses/1553675/quizzes/2292157'
@@ -416,6 +418,10 @@
         - name : 'Conference Travel'
           icon : 'fa-plane'
           type : 'text-muted'
+        - name : 'Code: Read Write Lock'
+          icon : 'fa-github-alt'
+          link : 'https://github.com/cs212/homework/tree/fall2015/ReadWriteLock'
+          note : 'Due'
 
     - class : 2015-10-30 # Fri
       notes :
