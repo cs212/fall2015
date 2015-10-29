@@ -418,7 +418,7 @@
       notes :
         - name : '"Node JS 101" by Priya Rattan, AppDynamics'
           icon : 'fa-flag'
-          link : 'https://www.appdynamics.com/'
+          link : 'https://docs.google.com/presentation/d/1ECMhEdPoUA2kiOIdUV6diZSQwswJ0kcnFUlwELou4BQ/edit?usp=sharing'
           type : 'text-danger'
       other :
         - name : 'Conference Travel'
