@@ -429,7 +429,7 @@
       notes :
         - name : '"Software Design" by Anthony Kilman, AppDynamics'
           icon : 'fa-flag'
-          link : 'https://blog.appdynamics.com/author/anthony-kilman/'
+          link : 'https://docs.google.com/a/appdynamics.com/presentation/d/1hZ2U_9YbPVgmAu2EG6rp6C7WmS3ZlR6daGZvFWa5tjc/edit?usp=sharing'
           type : 'text-danger'
       other :
         - name : 'Code: Read Write Lock'
