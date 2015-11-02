@@ -445,12 +445,18 @@
     - class : 2015-11-02 # Mon
       notes :
         - name : 'Advanced Multithreading'
+          icon : 'fa-github-alt'
+          link : 'https://github.com/cs212/lectures/tree/fall2015/Advanced%20Multithreading'
+        - name : 'Thread Pools and Work Queues'
+          icon : 'fa-external-link'
+          link : 'http://www.ibm.com/developerworks/library/j-jtp0730/'
       other : false
-
 
     - class : 2015-11-04 # Wed
       notes :
-        - name : 'Advanced Multithreading'
+        - name : 'Directory Size Calculator'
+          icon : 'fa-youtube-play'
+          link : 'https://www.youtube.com/playlist?list=PLm6V-0HXZmF1gz79T_7SaqTRzcWKAV7CQ'
       other : false
 
     - class : 2015-11-06 # Fri
@@ -458,7 +464,7 @@
       other :
         - name : 'Withdraw Deadline'
           icon : 'fa-calendar'
-          type : 'text-muted'
+          type : 'text-danger'
 
 - week : 12
   days :
