@@ -488,6 +488,10 @@
       notes : false
       other :
         - name : 'Code: Link Parser'
+        - name : 'Code: Concurrent Word Matcher'
+          icon : 'fa-github-alt'
+          link : 'https://github.com/cs212/homework/tree/fall2015/ConcurrentWordMatcher'
+          note : 'Due'
 
 - week : 13
   days :
@@ -505,10 +509,6 @@
       notes : false
       other :
         - name : 'Code: HTML Cleaner'
-        - name : 'Code: Concurrent Word Matcher'
-          icon : 'fa-github-alt'
-          link : 'https://github.com/cs212/homework/tree/fall2015/ConcurrentWordMatcher'
-          note : 'Due'
 
 - week : 14
   days :
