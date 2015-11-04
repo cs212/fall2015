@@ -474,10 +474,7 @@
     - class : 2015-11-09 # Mon
       notes :
         - name : 'Regular Expressions'
-      other :
-        - name : 'Project 3 Multithreading'
-          icon : 'fa-calendar-check-o'
-          type : 'text-success'
+      other : false
 
     - class : 2015-11-11 # Wed
       notes :
@@ -498,7 +495,10 @@
     - class : 2015-11-16 # Mon
       notes :
         - name : 'Servlets using Jetty'
-      other : false
+      other :
+        - name : 'Project 3 Multithreading'
+          icon : 'fa-calendar-check-o'
+          type : 'text-success'
 
     - class : 2015-11-18 # Wed
       notes :
@@ -536,10 +536,8 @@
       notes :
         - name : 'Exam 2 Review'
           icon : 'fa-file-text-o'
-      other :
-        - name : 'Project 4 Web Crawler'
-          icon : 'fa-calendar-check-o'
-          type : 'text-success'
+      other : false
+
 
     - class : 2015-12-02 # Wed
       notes :
@@ -559,7 +557,10 @@
     - class : 2015-12-07 # Mon
       notes :
         - name : 'Comprehensive Demos'
-      other : false
+      other :
+        - name : 'Project 4 Web Crawler'
+          icon : 'fa-calendar-check-o'
+          type : 'text-success'
 
     - class : 2015-12-09 # Wed
       notes :
