@@ -462,6 +462,9 @@
     - class : 2015-11-06 # Fri
       notes : false
       other :
+        - name : 'Code: Concurrent Word Matcher'
+          icon : 'fa-github-alt'
+          link : 'https://github.com/cs212/homework/tree/fall2015/ConcurrentWordMatcher'
         - name : 'Withdraw Deadline'
           icon : 'fa-calendar'
           type : 'text-danger'
@@ -502,6 +505,10 @@
       notes : false
       other :
         - name : 'Code: HTML Cleaner'
+        - name : 'Code: Concurrent Word Matcher'
+          icon : 'fa-github-alt'
+          link : 'https://github.com/cs212/homework/tree/fall2015/ConcurrentWordMatcher'
+          note : 'Due'
 
 - week : 14
   days :
