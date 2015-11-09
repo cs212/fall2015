@@ -474,6 +474,8 @@
     - class : 2015-11-09 # Mon
       notes :
         - name : 'Regular Expressions'
+          link : 'https://github.com/cs212/lectures/tree/fall2015/Regular%20Expressions'
+          icon : 'fa-github-alt'
       other : false
 
     - class : 2015-11-11 # Wed
