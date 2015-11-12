@@ -481,6 +481,8 @@
     - class : 2015-11-11 # Wed
       notes :
         - name : 'Client and Server Sockets'
+          link : 'https://github.com/cs212/lectures/tree/fall2015/Sockets'
+          icon : 'fa-github-alt'
       other : false
 
     - class : 2015-11-13 # Fri
