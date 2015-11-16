@@ -512,6 +512,9 @@
         - name : 'Dynamic HTML &ndash; Servlets'
           icon : 'fa-file-powerpoint-o'
           link : 'https://drive.google.com/open?id=0BxYofk0iB_upZFFPWUZocmdtLWM'
+        - name : 'Dynamic HTML &ndash; Setup'
+          icon : 'fa-youtube-play'
+          link : 'https://youtu.be/X5gr591JsLQ'
       other :
         - name : 'Project 3 Multithreading'
           icon : 'fa-calendar-check-o'
