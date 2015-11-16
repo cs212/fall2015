@@ -504,6 +504,14 @@
     - class : 2015-11-16 # Mon
       notes :
         - name : 'Servlets using Jetty'
+          icon : 'fa-github-alt'
+          link : 'https://github.com/cs212/lectures/tree/fall2015/Dynamic%20HTML'
+        - name : 'Dynamic HTML &ndash; Introduction'
+          icon : 'fa-file-powerpoint-o'
+          link : 'https://drive.google.com/open?id=0BxYofk0iB_upY1ozdHk5VVYycUE'
+        - name : 'Dynamic HTML &ndash; Introduction'
+          icon : 'fa-file-powerpoint-o'
+          link : 'https://drive.google.com/open?id=0BxYofk0iB_upZFFPWUZocmdtLWM'
       other :
         - name : 'Project 3 Multithreading'
           icon : 'fa-calendar-check-o'
