@@ -503,16 +503,16 @@
   days :
     - class : 2015-11-16 # Mon
       notes :
-        - name : 'Dynamic HTML &ndash; Code Demos'
+        - name : 'Dynamic Webpages &ndash; Code Demos'
           icon : 'fa-github-alt'
           link : 'https://github.com/cs212/lectures/tree/fall2015/Dynamic%20HTML'
-        - name : 'Dynamic HTML &ndash; Introduction'
+        - name : 'Dynamic Webpages &ndash; Introduction'
           icon : 'fa-file-powerpoint-o'
           link : 'https://drive.google.com/open?id=0BxYofk0iB_upY1ozdHk5VVYycUE'
-        - name : 'Dynamic HTML &ndash; Servlets'
+        - name : 'Dynamic Webpages &ndash; Servlets'
           icon : 'fa-file-powerpoint-o'
           link : 'https://drive.google.com/open?id=0BxYofk0iB_upZFFPWUZocmdtLWM'
-        - name : 'Dynamic HTML &ndash; Setup'
+        - name : 'Dynamic Webpages &ndash; Setup'
           icon : 'fa-youtube-play'
           link : 'https://youtu.be/X5gr591JsLQ'
       other :
@@ -522,7 +522,7 @@
 
     - class : 2015-11-18 # Wed
       notes :
-        - name : 'Dynamic HTML &ndash; Code Demos'
+        - name : 'Dynamic Webpages &ndash; Code Demos'
           icon : 'fa-github-alt'
           link : 'https://github.com/cs212/lectures/tree/fall2015/Dynamic%20HTML'
         - name : 'Dynamic Webpages &ndash; Context Server'
