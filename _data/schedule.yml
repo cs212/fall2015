@@ -503,7 +503,7 @@
   days :
     - class : 2015-11-16 # Mon
       notes :
-        - name : 'Servlets using Jetty'
+        - name : 'Dynamic HTML &ndash; Code Demos'
           icon : 'fa-github-alt'
           link : 'https://github.com/cs212/lectures/tree/fall2015/Dynamic%20HTML'
         - name : 'Dynamic HTML &ndash; Introduction'
@@ -522,7 +522,12 @@
 
     - class : 2015-11-18 # Wed
       notes :
-        - name : 'Cookies and Sessions'
+        - name : 'Dynamic HTML &ndash; Code Demos'
+          icon : 'fa-github-alt'
+          link : 'https://github.com/cs212/lectures/tree/fall2015/Dynamic%20HTML'
+        - name : 'Dynamic Webpages &ndash; Context Server'
+          icon : 'fa-youtube-play'
+          link : 'https://youtu.be/kJDmEom17-Q?list=PLm6V-0HXZmF17YbKStDV9AKjPHFVB7I9x'
       other : false
 
     - class : 2015-11-20 # Fri
