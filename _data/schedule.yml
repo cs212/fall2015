@@ -531,7 +531,12 @@
       other : false
 
     - class : 2015-11-20 # Fri
-      notes : false
+      notes :
+        - name : 'Session Tracking'
+          icon : 'fa-github-alt'
+        - name : 'Adventure Game Demo'
+          icon : 'fa-youtube-play'
+          link : 'https://www.youtube.com/playlist?list=PLm6V-0HXZmF1CKRtwPBPli05W51srMZpH'
       other :
         - name : 'Code: HTML Cleaner'
         - name : 'Code: Link Parser'
