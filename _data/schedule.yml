@@ -540,6 +540,8 @@
           link : 'https://www.youtube.com/playlist?list=PLm6V-0HXZmF1CKRtwPBPli05W51srMZpH'
       other :
         - name : 'Code: HTML Cleaner'
+          icon : 'fa-github-alt'
+          link : 'https://github.com/cs212/homework/tree/fall2015/HTMLCleaner'
         - name : 'Code: Link Parser'
           icon : 'fa-github-alt'
           link : 'https://github.com/cs212/homework/tree/fall2015/LinkParser'
@@ -575,8 +577,11 @@
       notes :
         - name : 'Exam 2 Review'
           icon : 'fa-file-text-o'
-      other : false
-
+      other :
+        - name : 'Code: HTML Cleaner'
+          icon : 'fa-github-alt'
+          link : 'https://github.com/cs212/homework/tree/fall2015/HTMLCleaner'
+          note : 'Due'
 
     - class : 2015-12-02 # Wed
       notes :
