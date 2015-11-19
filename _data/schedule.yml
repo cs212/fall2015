@@ -534,6 +534,7 @@
       notes :
         - name : 'Session Tracking'
           icon : 'fa-github-alt'
+          link : 'https://github.com/cs212/lectures/tree/fall2015/Sessions'
         - name : 'Adventure Game Demo'
           icon : 'fa-youtube-play'
           link : 'https://www.youtube.com/playlist?list=PLm6V-0HXZmF1CKRtwPBPli05W51srMZpH'
