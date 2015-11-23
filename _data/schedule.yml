@@ -576,7 +576,13 @@
     - class : 2015-11-25 # Wed
       notes :
         - name : 'Databases &ndash; SQL JOINs'
-      other : false
+      other :
+        - name : 'Quiz: SQL Joins'
+          icon : 'fa-book'
+          link : 'https://usfca.instructure.com/courses/1553675/quizzes/2292148'
+        - name : 'Quiz: SQL Grouping'
+          icon : 'fa-book'
+          link : 'https://usfca.instructure.com/courses/1553675/quizzes/2292142'
 
     - class : 2015-11-27 # Fri
       notes :
@@ -596,7 +602,14 @@
           icon : 'fa-github-alt'
           link : 'https://github.com/cs212/homework/tree/fall2015/HTMLCleaner'
           note : 'Due'
-
+        - name : 'Quiz: SQL Joins'
+          icon : 'fa-book'
+          link : 'https://usfca.instructure.com/courses/1553675/quizzes/2292148'
+          note : 'Due'
+        - name : 'Quiz: SQL Grouping'
+          icon : 'fa-book'
+          link : 'https://usfca.instructure.com/courses/1553675/quizzes/2292142'
+          note : 'Due'
     - class : 2015-12-02 # Wed
       notes :
         - name : 'Exam 2'
