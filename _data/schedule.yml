@@ -578,10 +578,10 @@
         - name : 'Databases &ndash; SQL JOINs'
       other :
         - name : 'Quiz: SQL Joins'
-          icon : 'fa-book'
+          icon : 'fa-pencil-square-o'
           link : 'https://usfca.instructure.com/courses/1553675/quizzes/2292148'
         - name : 'Quiz: SQL Grouping'
-          icon : 'fa-book'
+          icon : 'fa-pencil-square-o'
           link : 'https://usfca.instructure.com/courses/1553675/quizzes/2292142'
 
     - class : 2015-11-27 # Fri
@@ -603,11 +603,11 @@
           link : 'https://github.com/cs212/homework/tree/fall2015/HTMLCleaner'
           note : 'Due'
         - name : 'Quiz: SQL Joins'
-          icon : 'fa-book'
+          icon : 'fa-pencil-square-o'
           link : 'https://usfca.instructure.com/courses/1553675/quizzes/2292148'
           note : 'Due'
         - name : 'Quiz: SQL Grouping'
-          icon : 'fa-book'
+          icon : 'fa-pencil-square-o'
           link : 'https://usfca.instructure.com/courses/1553675/quizzes/2292142'
           note : 'Due'
     - class : 2015-12-02 # Wed
