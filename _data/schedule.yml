@@ -555,7 +555,21 @@
   days :
     - class : 2015-11-23 # Mon
       notes :
-        - name : 'Databases &ndash; SQL Basics'
+        - name : 'Relational Databases &ndash; Introduction'
+          icon : 'fa-file-powerpoint-o'
+          link : 'https://drive.google.com/open?id=0BxYofk0iB_upQkdxdlZCOUZSYm8'
+        - name : 'Relational Databases &ndash; SQL'
+          icon : 'fa-file-powerpoint-o'
+          link : 'https://drive.google.com/open?id=0BxYofk0iB_upblRyQ09qU1ExQkE'
+        - name : 'Relational Databases &ndash; JDBC'
+          icon : 'fa-file-powerpoint-o'
+          link : 'https://drive.google.com/open?id=0BxYofk0iB_upNUp2V1BiWGw3NlU'
+        - name : 'SQL Walkthrough'
+          icon : 'fa-file-pdf-o'
+          link : 'https://drive.google.com/open?id=0BxYofk0iB_upSUV6Zm9CRWJMaGs'
+        - name : 'MySQL Accounts'
+          icon : 'fa-database'
+          link : 'https://usfca.instructure.com/courses/1553675/pages/sql-accounts'
       other : false
 
 
