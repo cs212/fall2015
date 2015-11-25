@@ -575,7 +575,12 @@
 
     - class : 2015-11-25 # Wed
       notes :
-        - name : 'Databases &ndash; SQL JOINs'
+        - name : 'Relational Databases &ndash; SQL Basics'
+          link : 'https://github.com/cs212/lectures/tree/fall2015/SQL%20Basics'
+          icon : 'fa-github-alt'
+        - name : 'Relational Databases &ndash; Contact SQL Demo'
+          link : 'https://youtu.be/MZ-YVJETFAA'
+          icon : 'fa-youtube-play'
       other :
         - name : 'Quiz: SQL Joins'
           icon : 'fa-pencil-square-o'
