@@ -638,7 +638,12 @@
   days :
     - class : 2015-12-07 # Mon
       notes :
-        - name : 'Comprehensive Demos'
+        - name : 'Login Demo &ndash; Code Demos'
+          icon : 'fa-github-alt'
+          link : 'https://github.com/cs212/lectures/tree/fall2015/Comprehensive'
+        - name : 'Login Demo &ndash; Videos'
+          icon : 'fa-youtube-play'
+          link : 'https://www.youtube.com/playlist?list=PLm6V-0HXZmF3iA7aZw7ueSWIgEahClJPb'
       other :
         - name : 'Project 4 Web Crawler'
           icon : 'fa-calendar-check-o'
